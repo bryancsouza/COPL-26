@@ -7,9 +7,9 @@ banner: true
 sidebar_priority: 7000
 ---
 
-This is the course material for the first part of **Concepts of Programming Languanges (SOW-BKI-137)** which is based on the course 'Advanced Course in Programming' from the Department of Computer Science at the University of Helsinki.
+This is the course material for the course **Concepts of Programming Languanges (SOW-BKI-137)**. In the first part of the course we will see concepts related to Object-Oriented Programming (OOP), using materials. For that, we will use some of the reading materials and exercises adapted from the course 'Advanced Course in Programming' from the Department of Computer Science at the University of Helsinki. We start from Part 8 of the original course, and go until Part 14. Every week you will find which exercises you need to do in the assignment provided in Brightspace.
 
-Through the OOP part of the course we will use some of the reading materials and the exercises of this course, startig from Part 8 of the original course. Every week you will find which exercises you need to do in the assignment provided in Brightspace.
+In the second part we will see concepts related to Functional programming. For that you will follow Parts 15 to 19 of the materials, which are based on the course 'Functional Programming I', also from the Department of Computer Science at the University of Helsinki.
 
 <!-- To pass either of the two courses you are expected to complete programming exercises and take part in an exam. Please see the [Grading and exams](/COPL-oop-24/grading-and-exams) page for more details. -->
 
