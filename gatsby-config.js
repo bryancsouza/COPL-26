@@ -9,7 +9,7 @@ module.exports = {
     title: CourseSettings.name,
     siteUrl: CourseSettings.siteUrl,
   },
-  pathPrefix: "/COPL-oop-25",
+  pathPrefix: "/COPL-26",
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-styled-components",
