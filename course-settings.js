@@ -6,7 +6,7 @@ const courseSettings = {
   subtitle: "Object Oriented Programming",
   slug: "programming-23",
   organizationName: "Radboud University",
-  tmcCourse: "COPL-oop-26",
+  tmcCourse: "radbouduniversiteit-COPL-oop-26",
   quizzesId: "5ffc21a8-5f0d-4c11-871d-ba5fa17b2bc0",
   tmcOrganization: "radbouduniversiteit",
   bannerPath: "banner.svg",
