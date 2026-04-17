@@ -7,6 +7,11 @@ sidebar_priority: 2000
 ---
 
 
+## Installation errors
+
+If, when running `stack build` on Linux, you get an error regarding "hspec missing dependency", check the following issue:
+https://github.com/moocfi/haskell-mooc/issues/98
+
 
 ### Dealing with Errors
 
